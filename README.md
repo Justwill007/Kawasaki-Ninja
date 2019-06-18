@@ -128,3 +128,5 @@
 <li> Rated Output - 21.0 A/14.0 V at 5 000 r/min (rpm)<p>
 
 <p>Service parts and when to do it.</p>
+
+<img src="1.jpg">
