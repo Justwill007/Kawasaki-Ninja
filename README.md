@@ -120,7 +120,7 @@
 <li> High - 12 V 55 W (quartz-halogen) x 2<p>
 <li> Low - 12 V 55 W (quartz-halogen)<p>
 <li> Tail/Break Light 12 V 5/21 W<p>
-</h1>
+
 <p>
 <b> Alternator:</b>
 <li> Type - Three-phase AC<p>
