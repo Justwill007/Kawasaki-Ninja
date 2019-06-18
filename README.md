@@ -77,7 +77,6 @@
 <b> Transmission:</b>
 <li> Type - 6-speed, constant mesh, return shift<p>
 <b> Gear Ratios:</b>
-<ul>
 <li> 1st - 2.714 (38/14)<p>
 <li> 2nd - 1.789 (34/19)<p>
 <li> 3rd - 1.409 (31/22)<p>
