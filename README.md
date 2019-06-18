@@ -17,7 +17,15 @@
   overflow: hidden;
   background-color: #e9e9e9;
 }
-
+.topnav a {
+  float: Left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: red;
+  font-size: 17px;
+}
 
 <h1 style="border:2px solid black;"></h1>
 
