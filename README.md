@@ -4,10 +4,6 @@
 </head>
 <body>
 
-<svg width="400" height="180">
-  <rect x="50" y="20" rx="20" ry="20" width="150" height="150"
-  style="fill:red;stroke:black;stroke-width:5;opacity:0.5" />
-</svg>
 
 <h1>Ninja 300A/B </h1>
 <h3> General Specifications</h3>
@@ -146,3 +142,5 @@
 <img src="3.jpg">
 <p> page <b> 5 </b> </p>
 <img src="4.jpg">
+
+<h1 style="border:2px solid black;"> </h1>
