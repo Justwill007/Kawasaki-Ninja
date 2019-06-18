@@ -12,6 +12,7 @@
    <body>
    <b style="color:red;">
       <button onclick="window.location.href = 'https://justwill007.github.io/Contact-Form/';">contact</button>
+    <body>
       <button onclick="window.location.herf = 'https://github.com/Justwill007/About-form/';">About</button>
 </b>
 
