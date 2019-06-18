@@ -45,6 +45,7 @@
 <li> Cylinder Numbering Method - Left to right, 1-2<p>
 <li> Firing Order - 1-2<p>
 <h1 style="border:2px solid black;"></h1>
+
 <h3 style="color:blue;"> Valve Timing:</h3>
 <b> Intake: </b>
 <li> Open - 36° BTDC<p>
@@ -53,7 +54,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3> style="color:blue;"> Lubrication System</h3>
+<h3 style="color:blue;"> Lubrication System</h3>
 <b>Engine Oil:</b>
 <p>
 <li> Type - API SG, SH, SJ, SL or SM with JASO MA, MA1 or MA2<p>
