@@ -122,6 +122,7 @@
 <li> Tail/Break Light 12 V 5/21 W<p>
 
 <p>
+<p>
 <b> Alternator:</b>
 <li> Type - Three-phase AC<p>
 <li> Rated Output - 21.0 A/14.0 V at 5 000 r/min (rpm)<p>
