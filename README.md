@@ -10,7 +10,9 @@
 <title>Title of the document</title>
 
    <body>
+   <b style="color:red;">
       <button onclick="window.location.href = 'https://justwill007.github.io/Contact-Form/';">contact</button>
+</b>
 
 <h3> General Specifications</h3>
 <div class="topnav">
