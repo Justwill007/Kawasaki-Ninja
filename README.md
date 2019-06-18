@@ -12,7 +12,7 @@
    <body>
    <b style="color:red;">
       <button onclick="window.location.href = 'https://justwill007.github.io/Contact-Form/';">contact</button>
-      <button onclick="window.location.herf = 'https://github.com/Justwill007/About-form';">About</button>
+      <button onclick="window.location.herf = 'https://github.com/Justwill007/About-form/';">About</button>
 </b>
 
 <h3> General Specifications</h3>
