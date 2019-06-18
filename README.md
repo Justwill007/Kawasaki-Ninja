@@ -26,6 +26,7 @@
 <li> Mass [A] 172 Kg (379.3 lb)<p>
 <li> Mass [B] 174 Kg (383.7 lb)<p>
 <li> 17 L (4.5 US gal.)<p>
+<h1 style="border:2px solid black;"></h1>
 
 <h3 style="color:blue;"> Engine </h3>
 <li> Type - 4 stroke, DOHC, 2 cylinder<p>
@@ -43,7 +44,8 @@
 <li> Spark Plug - NGK CR8E<p>
 <li> Cylinder Numbering Method - Left to right, 1-2<p>
 <li> Firing Order - 1-2<p>
-<h3> Valve Timing:</h3>
+<h1 style="border:2px solid black;"></h1>
+<h3 style="color:blue;"> Valve Timing:</h3>
 <b> Intake: </b>
 <li> Open - 36° BTDC<p>
 <li> Close - 56° ABDC<p>
