@@ -10,7 +10,8 @@
 <title>Title of the document</title>
    <body>
       <button onclick="window.location.href = 'https://justwill007.github.io/Contact-Form/';">contact</button>
-
+   <body>
+      <button onclick="window.location.href = 'https://justwill007.github.io/About-form/';">about</button>
 
 <h3> General Specifications</h3>
 
