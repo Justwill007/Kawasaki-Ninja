@@ -16,7 +16,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<b> Dimensions </b>
+<b style="color:blue;"> Dimensions </b>
 <p> <p>
 <li> Length - 2,015mm (79.33 in.)<p>
 <li> Width - 715mm (28.15 in.)<p>
