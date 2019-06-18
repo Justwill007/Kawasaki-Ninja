@@ -134,11 +134,11 @@
 <p>Service parts and when to do it.</p>
 <p> page <b> 1 </b> </p>
 <img src="5.jpg">
-<p> page 2 </p>
+<p> page <b> 2 </b> </p>
 <img src="1.jpg">
-<p> page 3 </p>
+<p> page <b> 3 </b> </p>
 <img src="2.jpg">
-<p> page 4 </p>
+<p> page <b> 4 </b> </p>
 <img src="3.jpg">
-<p> page 5 </p>
+<p> page <b> 5 </b> </p>
 <img src="4.jpg">
