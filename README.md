@@ -11,7 +11,7 @@
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
-  <input type="text" placeholder="Search..">
+  <input type="text" placeholder="Search">
 </div>
 
 
@@ -114,7 +114,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3 style="color:blue;"> Electrical Equipment &#9889 </h3>
+<h3 style="color:blue;"> Electrical Equipment </h3>
 <li> battery - 12 V 8 Ah<p>
 <b> Headlight:</b>
 <li> Type - Semi-sealed beam<p>
