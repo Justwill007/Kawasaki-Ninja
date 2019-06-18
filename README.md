@@ -13,6 +13,12 @@
   <a href="#contact">Contact</a>
   <input type="text" placeholder="Search..">
 </div>
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+
 <h1 style="border:2px solid black;"></h1>
 
 
