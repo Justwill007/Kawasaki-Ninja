@@ -14,7 +14,7 @@
       <button onclick="window.location.href = 'https://justwill007.github.io/About-form/';">about</button>
 
 
-<h3> General Specifications</h3>
+<h2> General Specifications</h2>
 
 <h1 style="border:2px solid black;"></h1>
 
