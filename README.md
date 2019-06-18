@@ -23,7 +23,7 @@
   color: black;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: red;
+  text-decoration: none;
   font-size: 17px;
 }
 
