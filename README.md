@@ -132,15 +132,15 @@
 <h1 style="border:2px solid black;"> </h1>
 
 <p>Service parts and when to do it.</p>
-<p> page <b> 1 </b> </p>
+<p> page <b> ❶ </b> </p>
 <img src="5.jpg">
-<p> page <b> 2 </b> </p>
+<p> page <b> ❷ </b> </p>
 <img src="1.jpg">
-<p> page <b> 3 </b> </p>
+<p> page <b> ❸ </b> </p>
 <img src="2.jpg">
-<p> page <b> 4 </b> </p>
+<p> page <b> ❹ </b> </p>
 <img src="3.jpg">
-<p> page <b> 5 </b> </p>
+<p> page <b> ❺ </b> </p>
 <img src="4.jpg">
 
 <h1 style="border:2px solid black;"> </h1>
