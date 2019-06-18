@@ -126,7 +126,8 @@
 <b> Alternator:</b>
 <li> Type - Three-phase AC<p>
 <li> Rated Output - 21.0 A/14.0 V at 5 000 r/min (rpm)<p>
-<h1 style="border:2px solid black;"></h1>
+
+<h1 style="border:2px solid black;"> </h1>
 
 <p>Service parts and when to do it.</p>
 <p> page 1 </p>
