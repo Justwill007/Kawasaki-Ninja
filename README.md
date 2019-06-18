@@ -4,9 +4,9 @@
 </head>
 <body>
 
-heading { <img src="top-decor.jpg">
+ <img src="top-decor.jpg">
 <h1>Ninja 300A/B </h1>
-}
+
 <h3> General Specifications</h3>
 <div class="topnav">
   <a class="active" href="#home">Home</a>
