@@ -8,7 +8,7 @@
 <h1>Ninja 300A/B </h1>
 
 <title>Title of the document</title>
-  
+
    <body>
       <button onclick="window.location.href = 'https://';">contact</button>
 
