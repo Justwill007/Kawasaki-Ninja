@@ -132,7 +132,7 @@
 <h1 style="border:2px solid black;"> </h1>
 
 <p>Service parts and when to do it.</p>
-<p> page 1 </p>
+<p> page <b> 1 </b> </p>
 <img src="5.jpg">
 <p> page 2 </p>
 <img src="1.jpg">
