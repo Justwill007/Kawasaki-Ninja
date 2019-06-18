@@ -86,9 +86,9 @@
 <li> 6th - 0.857 (24/28)<p>
 
 <b> Final Drive System:</b>
-<li> Type - Chain drive<p>
-<li> Reduction Ratio - 3.000 (42/14)<p>
-<li> Overall Drive Ratio - 7.938 at Top gear<p>
+<li> Type - Chain drive</p>
+<li> Reduction Ratio - 3.000 (42/14)</p>
+<li> Overall Drive Ratio - 7.938 at Top gear</p>
 <h1 style="border:2px solid black;"></h1>
 
 
