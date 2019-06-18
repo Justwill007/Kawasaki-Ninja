@@ -13,6 +13,14 @@
    <body>
       <button onclick="window.location.href = 'https://justwill007.github.io/About-form/';">about</button>
 
+    <body>
+      <form class="search2" method="get" action="default.html" />
+<input class="search2" type="text" name="serach_bar" size="31" maxlength="255"       
+value="" style="left: 396px; top: 153px; width: 293px; height: 26px;" />
+<input class="search1" type="submit" name="submition" value="Search" style=" padding-  
+bottom:20px; left: 691px; top: 153px; height: 23px" />
+<input class="search2" type="hidden" name="sitesearch" value="default.html" />
+
 <h3> General Specifications</h3>
 
 
