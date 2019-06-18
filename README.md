@@ -34,9 +34,9 @@
 
 <h3 style="color:blue;"> Engine </h3>
 <li> Type - 4 stroke, DOHC, 2 cylinder<p>
-<li> Cooloing - liquid cooled<p>
-<li> bore and stroke - 62.0 x 49.0 mm (2.44 x 1.93 in.)<p>
-<li> displacement - 296 cm³ (18.06 cu in.)<p>
+<li> Cooling - liquid cooled<p>
+<li> Bore and Stroke - 62.0 x 49.0 mm (2.44 x 1.93 in.)<p>
+<li> Displacement - 296 cm³ (18.06 cu in.)<p>
 <li> Compression Ratio - 10:6:1<p>
 <li> Maximum Horsepower - 29 kW (39 PS) at 11,000 r/min (rpm)<p>
 <li> Maximum Torque - 27 N·m (2.8 kgf·m, 20 ft·lb) at 10 000 r/min (rpm)<p>
@@ -118,7 +118,7 @@
 <h3 style="color:blue;"> Electrical Equipment </h3>
 <li> battery - 12 V 8 Ah<p>
 <b> Headlight:</b>
-<li> Type - Semi-sealed beam<p>
+<li> Type - Semi-Sealed Beam<p>
 <b> Bulb:</b>
 <li> High - 12 V 55 W (quartz-halogen) x 2<p>
 <li> Low - 12 V 55 W (quartz-halogen)<p>
@@ -127,12 +127,12 @@
 <p>
 <p>
 <b> Alternator:</b>
-<li> Type - Three-phase AC<p>
+<li> Type - Three-Phase AC<p>
 <li> Rated Output - 21.0 A/14.0 V at 5 000 r/min (rpm)<p>
 
 <h1 style="border:2px solid black;"> </h1>
 
-<h3 style="color:blue"> Service parts and when to do it </h3>
+<h3 style="color:blue"> Service parts and intervals </h3>
 <p> page <b> ❶ </b> </p>
 <img src="5.jpg">
 <p> page <b> ❷ </b> </p>
