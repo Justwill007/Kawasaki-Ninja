@@ -4,11 +4,6 @@
 </head>
 <body>
 
-<div class="search-box">
-  <input class="search-txt" name="" placeholder="Type to Search">
-  <a class="search-btn" href="#"  
-
-  </a>
 
 <h1>Ninja 300A/B </h1>
 <h3> General Specifications</h3>
