@@ -114,7 +114,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3 style="color:blue;"> Electrical Equipment </h3>
+<h3 style="color:blue;"> Electrical Equipment ⚡ </h3>
 <li> battery - 12 V 8 Ah<p>
 <b> Headlight:</b>
 <li> Type - Semi-sealed beam<p>
