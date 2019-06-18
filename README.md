@@ -27,8 +27,8 @@
 <li> Wheelbase - 1,405mm (55.31 in.)<p>
 <li> Clearance - 140mm (5.51 in.)<p>
 <li> Seat Height - 785mm (30.91 in.)<p>
-<li> Mass [A] 172 Kg (379.3 lb)<p>
-<li> Mass [B] 174 Kg (383.7 lb)<p>
+<li> Mass - [A] 172 Kg (379.3 lb)<p>
+<li> Mass - [B] 174 Kg (383.7 lb)<p>
 <li> 17 L (4.5 US gal.)<p>
 <h1 style="border:2px solid black;"></h1>
 
