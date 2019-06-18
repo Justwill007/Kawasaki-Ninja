@@ -54,7 +54,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3 style="color:blue;"> Lubrication System</h3>
+<h3 style="color:blue;"> Lubrication System </h3>
 <b>Engine Oil:</b>
 <p>
 <li> Type - API SG, SH, SJ, SL or SM with JASO MA, MA1 or MA2<p>
