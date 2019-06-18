@@ -15,7 +15,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3 style="color:red;"> Dimensions </b>
+<h3 style="color:red;"> Dimensions </h3>
 <p> <p>
 <li> Length - 2,015mm (79.33 in.)<p>
 <li> Width - 715mm (28.15 in.)<p>
@@ -51,7 +51,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3 style="color:Lightblue;"/> Lubrication System</h3>
+<h3 style="color:Lightblue;"> Lubrication System</h3>
 <b>Engine Oil:</b>
 <p>
 <li> Type - API SG, SH, SJ, SL or SM with JASO MA, MA1 or MA2<p>
