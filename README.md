@@ -15,7 +15,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3> style="color:red;"> Dimensions </h3>
+<h3> style="color:blue;"> Dimensions </h3>
 <p> <p>
 <li> Length - 2,015mm (79.33 in.)<p>
 <li> Width - 715mm (28.15 in.)<p>
@@ -27,7 +27,7 @@
 <li> Mass [B] 174 Kg (383.7 lb)<p>
 <li> 17 L (4.5 US gal.)<p>
 
-<b> Engine </b>
+<h3 style="color:blue;"> Engine </h3>
 <li> Type - 4 stroke, DOHC, 2 cylinder<p>
 <li> Cooloing - liquid cooled<p>
 <li> bore and stroke - 62.0 x 49.0 mm (2.44 x 1.93 in.)<p>
@@ -51,7 +51,7 @@
 <h1 style="border:2px solid black;"></h1>
 
 
-<h3 style="color:blue;"> Lubrication System</h3>
+<h3> style="color:blue;"> Lubrication System</h3>
 <b>Engine Oil:</b>
 <p>
 <li> Type - API SG, SH, SJ, SL or SM with JASO MA, MA1 or MA2<p>
