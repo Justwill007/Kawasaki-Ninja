@@ -12,7 +12,8 @@
       <button onclick="window.location.href = 'https://justwill007.github.io/Contact-Form/';">contact</button>
    <body>
       <button onclick="window.location.href = 'https://justwill007.github.io/About-form/';">about</button>
-
+   <body>
+      <button onclick="window.location.href = 'https://justwill007.github.io/Maintenance/';">maintenance</button>
 
 <h2> <b> General Specifications </b> </h2>
 
