@@ -117,7 +117,7 @@
 
 
 <h3 style="color:blue;"> Electrical Equipment </h3>
-<li> battery - 12 V 8 Ah<p>
+<li> Battery - 12 V 8 Ah<p>
 <b> Headlight:</b>
 <li> Type - Semi-Sealed Beam<p>
 <b> Bulb:</b>
